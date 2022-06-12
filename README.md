@@ -1,2 +1,2 @@
-# RightInThe-MailBox-
+# RightInThe-MailBox
 Bulk Emailing System
